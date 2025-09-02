@@ -1,6 +1,8 @@
 # 🎮 Mortal Kombat - Tela de Seleção de Personagens
 
-![Mortal Kombat Banner](https://static.wikia.nocookie.net/mkwikia/images/6/6e/Mk2-1.png/revision/latest?cb=20060606003500)
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/mkwikia/images/6/6e/Mk2-1.png/revision/latest?cb=20060606003500" alt="Mortal Kombat Banner" width="100%">
+</p>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
