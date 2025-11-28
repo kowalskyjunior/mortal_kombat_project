@@ -64,7 +64,7 @@ Clone este repositório:
 
 bash
 Copiar código
-git clone https://github.com/seu-usuario/mortal-kombat-selecao.git
+git clone https://github.com/kowalskyjunior/mortal_kombat_project.git
 Abra o arquivo index.html no navegador
 
 Escolha seus lutadores e divirta-se! 🥋🔥
